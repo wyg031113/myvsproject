@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.class
+*.zip
+*.rar
+*.sdf
+*.pdb
+*.ilk
+obj/
+bin/
+Debug/
